@@ -53,6 +53,7 @@ button{
 span.screenname {
   padding-left: 20px;
   display:block;
+  font-weight: bold;
 }
 span.message {
   padding-left:40px;
